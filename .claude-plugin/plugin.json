@@ -1,0 +1,25 @@
+{
+  "name": "solvice",
+  "version": "0.5.0",
+  "description": "VRP route optimization for Claude Cowork \u2014 build routing requests, solve delivery and field service problems, and diagnose constraint violations using the Solvice API.",
+  "author": {
+    "name": "Solvice",
+    "url": "https://solvice.io"
+  },
+  "skills": [
+    "skills/setup",
+    "skills/quickstart",
+    "skills/scaffold",
+    "skills/debug",
+    "skills/constraint-glossary",
+    "skills/integration-patterns"
+  ],
+  "commands": [
+    "commands/quick-start.md",
+    "commands/analyze-solution.md",
+    "commands/debug.md",
+    "commands/compare.md",
+    "commands/move-job.md",
+    "commands/scaffold.md"
+  ]
+}

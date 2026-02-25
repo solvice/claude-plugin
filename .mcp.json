@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "solvice": {
+            "type": "http",
+            "url": "https://api.solvice.io/mcp",
+            "headers": {
+                "Authorization": "Bearer ${SOLVICE_API_KEY}"
+            }
+        }
+    }
+}
